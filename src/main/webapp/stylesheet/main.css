@@ -1,0 +1,55 @@
+/*Entire web page styling*/
+html{
+	background-color: #adadad;
+    margin: 0;
+    padding: 0;
+}
+
+/*Entire Body Styling*/
+body {
+	background-color: #f0f0f0;
+}
+
+/* Link bar Styling*/
+#nav {
+	text-align:center;
+	font-family: courier;
+	margin: 0;
+    padding: 0;
+}
+
+/*Div title styling*/
+#title {
+	text-align: center;
+	font-family:verdana;
+}
+
+/*div content Styling*/
+#content {
+	text-align:center
+}
+
+/*display table styling*/
+table#t01 {
+    width: 100%;    
+    background-color: #f1f1c1; 
+    border-bottom: 1px solid black;
+}
+
+ table.bottomBorder { 
+    border-collapse: collapse; 
+  }
+  
+ table.bottomBorder td, 
+ 
+ table.bottomBorder th { 
+    border-bottom: 3px solid yellowgreen; 
+    padding: 10px; 
+    text-align: left;
+  }
+  
+  table#t02 {
+    width: 30%;
+    background-color: #f1f1c1; 
+}
+
